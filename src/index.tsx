@@ -4,10 +4,6 @@ import './index.css';
 import App from './App/App';
 import reportWebVitals from './reportWebVitals';
 
-const str = "string";
-
-str.slice(0, 2).toLowerCase();
-
 ReactDOM.render(
   <React.StrictMode>
     <App />
